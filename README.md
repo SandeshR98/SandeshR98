@@ -1,10 +1,10 @@
 # Hey, I'm Sandesh 👋
 
-I'm a **Senior Software Engineer** working across the full stack — frontend and backend — with deep experience in both.
-I care deeply about **how things work under the hood** — not just making things work, but understanding *why* they work.
+I'm a **Senior Software Engineer** working across the full stack, frontend and backend, with deep experience in both.
+I care deeply about **how things work under the hood**. Not just making things work, but understanding *why* they work.
 
-Over 7+ years I've built and shipped production applications, but most of what lives here on GitHub is different:
-it's **deliberate, hands-on exploration** — picking up a tool, pushing it to its limits, and building something that reveals the trade-offs.
+Over 7+ years I've built and shipped production applications, but most of what lives here on GitHub is different.
+It's **deliberate, hands-on exploration**: picking up a tool, pushing it to its limits, and building something that reveals the trade-offs.
 
 > 🔎 Current obsessions: React performance · scalable frontend architecture · system design
 
