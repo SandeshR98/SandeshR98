@@ -58,7 +58,7 @@ It's **deliberate, hands-on exploration**: picking up a tool, pushing it to its 
 These repositories are **intentional learning artifacts**, not production systems.
 They reflect how I evaluate tools, patterns, and architectural trade-offs.
 
-- ⚡ **react-scale** — High-performance React SPA rendering 100K virtualized product cards. TanStack Virtual, Web Workers, TanStack Table, shadcn/ui, full-text search, and React concurrent features (`useTransition`, `useDeferredValue`)
+- ⚡ **[react-scale](https://react-scale.vercel.app)** — High-performance React SPA rendering 100K virtualized product cards. TanStack Virtual, Web Workers, TanStack Table, shadcn/ui, full-text search, and React concurrent features (`useTransition`, `useDeferredValue`)
 - 🎨 **react-shadcn** — Component composition & design systems with ShadCN + Tailwind
 - 🏛️ **nodejs-clean-architecture** — Clean architecture principles applied to Node.js
 - 🔷 **SPFX-PNPJS-V3** — SharePoint Framework experiments using PnP JS v3
