@@ -1,11 +1,14 @@
-# 👋 Sandesh Rathnayake
+# Hey, I'm Sandesh 👋
 
-### 💻 Senior Software Engineer | Full-Stack (React · Node.js)
+I'm a **Senior Software Engineer** specialising in full-stack web development with a strong lean toward the frontend.
+I care deeply about **how things work under the hood** — not just making things work, but understanding *why* they work.
 
-7+ years of hands-on experience building, refactoring, and experimenting with web applications.
-I focus on **frontend architecture**, **state management**, and **maintainable system design**.
+Over 7+ years I've built and shipped production applications, but most of what lives here on GitHub is different:
+it's **deliberate, hands-on exploration** — picking up a tool, pushing it to its limits, and building something that reveals the trade-offs.
 
-Most repositories here are **learning-driven implementations** - POCs, architecture experiments, and tech explorations.
+```
+Current obsessions: React performance · scalable frontend architecture · system design
+```
 
 ---
 
