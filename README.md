@@ -67,7 +67,7 @@ They reflect how I evaluate tools, patterns, and architectural trade-offs.
 
 ---
 
-## 📬 Connect
+📬 **Connect**
 
 - 💼 LinkedIn: https://www.linkedin.com/in/sandesh-rathnayake-511694141
 - 👨‍💻 GitHub: https://github.com/SandeshR98
