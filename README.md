@@ -15,8 +15,9 @@ It's **deliberate, hands-on exploration**: picking up a tool, pushing it to its 
 ## 🧠 Engineering Profile
 
 - 🗓 7+ years in software engineering
-- ⚛️ React-centric frontend development
-- 🏗️ Strong interest in clean architecture & scalable patterns
+- ⚛️ Frontend: React, TypeScript, component architecture, state management
+- 🟩 Backend: Node.js, Express.js, REST APIs, MongoDB, PostgreSQL
+- 🏗️ Strong interest in clean architecture & scalable system design
 - 🔍 Prefer understanding internals over surface-level usage
 - 🔁 Learn by building, breaking, and rebuilding systems
 
