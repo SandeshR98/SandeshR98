@@ -1,4 +1,4 @@
-# Hey, I'm Sandesh 👋
+# Hi, I'm Sandesh 👋
 
 I'm a **Senior Software Engineer** working across the full stack, frontend and backend, with deep experience in both.
 I care deeply about **how things work under the hood**. Not just making things work, but understanding *why* they work.
