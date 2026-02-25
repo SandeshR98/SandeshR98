@@ -1,6 +1,6 @@
 # Hey, I'm Sandesh 👋
 
-I'm a **Senior Software Engineer** specialising in full-stack web development with a strong lean toward the frontend.
+I'm a **Senior Software Engineer** working across the full stack — frontend and backend — with deep experience in both.
 I care deeply about **how things work under the hood** — not just making things work, but understanding *why* they work.
 
 Over 7+ years I've built and shipped production applications, but most of what lives here on GitHub is different:
