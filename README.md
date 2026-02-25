@@ -6,9 +6,7 @@ I care deeply about **how things work under the hood** — not just making thing
 Over 7+ years I've built and shipped production applications, but most of what lives here on GitHub is different:
 it's **deliberate, hands-on exploration** — picking up a tool, pushing it to its limits, and building something that reveals the trade-offs.
 
-```
-Current obsessions: React performance · scalable frontend architecture · system design
-```
+> 🔎 Current obsessions: React performance · scalable frontend architecture · system design
 
 ---
 
